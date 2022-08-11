@@ -11,3 +11,8 @@
 
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=vim,vscode,github,git,bash,linux,unity,visualstudio)
+
+## Github statistics
+![Github Stats](https://github-readme-stats.vercel.app/api?username=motirek&show_icons=true&theme=dracula)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=motirek&theme=dracula)
