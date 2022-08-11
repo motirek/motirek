@@ -1,16 +1,13 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=38C2FF&vCenter=true&width=435&lines=Greetings+Fellow+Humans;I+am+Miroslav+Mad%C4%9Bra)](https://git.io/typing-svg)
 
-<!--
-**motirek/motirek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- QA Tester
+- Learning automatic testing and web scrapping
+- Enjoys game development
 
-Here are some ideas to get you started:
+## Languages and tools I use
+### Languages and Frameworks
+![Languages and Frameworks](https://skillicons.dev/icons?i=cs,python,bash,mysql,postgresql,selenium)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+![Tools](https://skillicons.dev/icons?i=vim,vscode,github,git,bash,linux,unity,visualstudio)
